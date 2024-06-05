@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Brendel Redmine AddOns
 // @namespace    https://brendel.software/
-// @version      1.0
+// @version      1.1
 // @description  Verbessert die Redmine
 // @author       R. Olschewsky
 // @match        https://redmine.brendel.software/*
