@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redmine AddOn: Zeiterfassung
 // @namespace    https://brendel.software/
-// @version      2
+// @version      1.1
 // @description  Verbessert die Redmine Zeiterfassung
 // @author       R. Olschewsky
 // @match        https://redmine.brendel.software/issues/*/time_entries/*
